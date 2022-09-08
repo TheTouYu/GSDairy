@@ -98,7 +98,7 @@
      git commit -m '之前的日记配置'
        ```
 
-### [点我查看](list.md)       
+### [点我查看](Old/list.md)       
        
      
      
