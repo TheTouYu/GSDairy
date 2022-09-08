@@ -38,4 +38,4 @@
 [notepad.txt.md]("notepad.txt.md")
 [今日小小总结：(1).txt.md]("今日小小总结：(1).txt.md")
 [今日小小总结：.txt.md]("今日小小总结：.txt.md")
-[数学  发现大量空洞：微分.txt.md]("数学  发现大量空洞：微分.txt.md")
+[数学  发现大量空洞：微分.txt.md]("数学-发现大量空洞-微分.txt.md")
