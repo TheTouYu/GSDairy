@@ -9,6 +9,8 @@
 - [其他 ](O.md)
 
 ### 数学
+- [Learn What](LWM学了什么.md)
+
 - [写在前面](M数学.md)
 
 - [高数](gs高数.md)
@@ -18,10 +20,12 @@
 - [概率论](gl概率论.md)
 
 ### 英语
+- [Learn What](LWE学了什么.md)
 
 - [阅读](yd阅读.md)
 
 ### 人工智能855
+- [Learn What](LWA学了什么.md)
 
 - [AMI](AMI.md)
 
